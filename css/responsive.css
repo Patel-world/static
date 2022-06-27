@@ -461,7 +461,7 @@ header .row .row {
 
 @media only screen and (max-width: 767px) {
 	#main{
-		width: 100%;
+		width: 100vw;
 	}
 
 .universal_video_player.blackControllers .thumbsHolderWrapper {
